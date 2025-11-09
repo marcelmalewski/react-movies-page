@@ -1,11 +1,1 @@
-# Movies page
-
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-
-## General info
-...
-	
-## Technologies
-...
+# Website with movies (school project)
